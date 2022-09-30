@@ -16,7 +16,7 @@ future==0.18.2
 holidays==0.9.11
 itsdangerous==1.1.0
 Jinja2==2.10.3
-joblib==0.14.0
+joblib==1.2.0
 kiwisolver==1.1.0
 lunardate==0.2.0
 MarkupSafe==1.1.1
